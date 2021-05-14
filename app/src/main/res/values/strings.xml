@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="forget_password"><u> Forget Password?  </u></string>
+    <string name="don_t_have_a_account_sign_up_now"> <u>Don\'t have a account? Sign up Now  </u> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
