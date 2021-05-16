@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a45d5e74-0682-4a44-9aa6-f7be20b04c0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/androidTest/java/abc/com/listviewcustomadapter/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/java/abc/com/listviewcustomadapter/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/java/abc/com/listviewcustomadapter/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/layout/list_item_teacher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/app/src/test/java/abc/com/listviewcustomadapter/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListViewCustomAdapter/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortTodo/app/src/main/java/abc/com/sorttodo/Todo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortTodo/app/src/main/java/abc/com/sorttodo/TodoAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortTodo/app/src/main/res/layout/item_todo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listWithJava/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listWithJava/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listWithJava/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listWithJava/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All Website/Best7Product/Do follow backlink 100%/do follow baklink my list.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../All Website/Best7Product/Do follow backlink 100%/do follow baklink my list.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All Website/Best7Product/kewoard for best 7 products.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../All Website/Best7Product/kewoard for best 7 products.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetworkingJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetworkingJava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetworkingJava/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../NetworkingJava/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetworkingJava/app/src/main/java/abc/com/networkingjava/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NetworkingJava/app/src/main/java/abc/com/networkingjava/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoTrack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoTrack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoTrack/app/src/main/java/abc/com/todotrack/TodoAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoTrack/app/src/main/java/abc/com/todotrack/TodoAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listWithJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../listWithJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/CAFJr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/SONAM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/amrita photo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/amrita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/10400_Babushka_Nesting_Dolls_v1_L3.123c82f289bb-39a5-4b51-ba1c-3cdb29143855/10400_Babushka_Nesting_Dolls_v1_max2010_iterations-2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/2srp1fi1oigw-CHARACTER-ANIME_HIGH.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Braunstein_obj/Toot_Braustein.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Braunstein_obj/Toot_Braustein.mtl.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Braunstein_obj/Toot_Braustein.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/C4D File/backup/Color versione.c4d@20140728_141924" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/Other Extension File/The Limited 4.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/Render/Render.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/Render/Renderprv2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/Render/Renderprviww.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/backup/The limited 3.c4d@20140728_132038" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/backup/The limited 3.c4d@20140728_134053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/Cartoon Caharacter Pongo/backup/The limited 3.c4d@20140728_134257" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/blender/doll_v3_L3.123c873b5ded-42c9-42d6-a3d0-a5762a6bae33/11679_doll_v3_L3.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/kk af.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/kk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pdf image/11th apply image/raushan.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sTwetyfREZJBquPMJuzXQ4q9im" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/Android Development/internshala/Kick_offAssignmentSolution" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1871813997">
+      <recent name="abc.com.loginui" />
+    </key>
+    <key name="android.template.-1931424332">
+      <recent name="abc.com.loginui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="LoginUI.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45d5e74-0682-4a44-9aa6-f7be20b04c0a" name="Default Changelist" comment="" />
+      <created>1620909985340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620909985340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620912644339">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1620912644339" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620996978523">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1620996978523" />
+    <state x="263" y="138" key="AndroidCreateResourceFileDialog" timestamp="1620997078479">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="138" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1620997078479" />
+    <state x="527" y="169" key="AndroidCreateXmlResourceDialog" timestamp="1620928265954">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="527" y="169" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1620928265954" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1620945297305">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1620945297305" />
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom" timestamp="1620995307000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620995307000" />
+    <state width="1306" height="189" key="GridCell.Tab.0.center" timestamp="1620995307000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620995307000" />
+    <state width="1306" height="189" key="GridCell.Tab.0.left" timestamp="1620995307000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620995307000" />
+    <state width="1306" height="189" key="GridCell.Tab.0.right" timestamp="1620995307000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620995307000" />
+    <state x="526" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1620911146080">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="526" y="155" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1620911146080" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1620938433975">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1620938433975" />
+  </component>
+</project>
