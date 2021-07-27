@@ -10,13 +10,14 @@ class FinalActivity : AppCompatActivity() {
         setContentView(R.layout.activity_final)
 
         val intent = intent
-        val password = intent.getStringExtra("Password")
+        // recieve value of Password trough getStringExtra
+        val password11 = intent.getStringExtra("Password")
         val phone = intent.getStringExtra("Phone")
 
         //textview
         val resultTv = findViewById<TextView>(R.id.resultTv)
         //setText
-        resultTv.text = "Name: "+phone+"\nPassword: "+password
+        resultTv.text = "Phone no: "+phone+"\nPassword: "+password11
 
     }
 

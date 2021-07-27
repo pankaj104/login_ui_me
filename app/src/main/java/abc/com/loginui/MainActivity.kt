@@ -21,7 +21,7 @@ val mobileno= findViewById<EditText>(R.id.mobileno)
 
         val button=findViewById<Button>(R.id.login)
         button.setOnClickListener{
-
+// To store value in password through pass id in text view
             val password = pass.text.toString()
             val phone = mobileno.text.toString()
           val intent =Intent(this, FinalActivity::class.java)
@@ -30,33 +30,17 @@ val mobileno= findViewById<EditText>(R.id.mobileno)
             intent.putExtra("Phone", phone)
             startActivity(intent)
         }
-
-//
-
-//
-//        val button2=findViewById<Button>(R.id.next)
-//        button2.setOnClickListener{
-//            val intent =Intent(this, FinalActivity::class.java)
-//            startActivity(intent)
-//        }
-    }
-
-
-    fun ForgetPassword(view: View) {
-        val TextView= findViewById<TextView>(R.id.forgetPassword)
+        val TextView= findViewById<TextView>(R.id.singUp)
         TextView.setOnClickListener {
+            startActivity(Intent(this, SignUpActivity::class.java))
+        }
+        val TextView2= findViewById<TextView>(R.id.forgetPassword)
+        TextView2.setOnClickListener {
             val intent =Intent(this,ForgetPasswordActivity::class.java)
             startActivity(intent)
         }
+
     }
 
 
-
-    fun SignUp(view: View) {
-        val TextView= findViewById<TextView>(R.id.singUp)
-        TextView.setOnClickListener {
-            val intent =Intent(this,SignUpActivity::class.java)
-            startActivity(intent)
-        }
-    }
 }
